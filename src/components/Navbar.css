@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #fafafa !important;
+}
+
+.navbar-brand {
+    margin-right: 0 !important;
+    font-family: "Parisienne", cursive;
+    font-size: 1.7rem !important;
+}
+
+.navbar-nav li {
+    min-width: 6.8rem;
+}
+.navbar-nav li a {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

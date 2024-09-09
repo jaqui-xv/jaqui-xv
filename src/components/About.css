@@ -1,0 +1,28 @@
+.parents {
+    margin: 1rem 0;
+    display: flex;
+    flex-direction: column;
+    font-size: 2.5rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.about svg {
+    stroke: #99ab77;
+    fill: none;
+}
+
+.parent:not(.desc), .parent-separator {
+    font-family: "Parisienne", cursive;
+}
+
+.desc {
+    font-size: 1rem;
+    position: relative;
+    top: -5px;
+    color: #99ab77;
+}
+
+.parent-separator {
+    font-size: 2.5rem;
+}
