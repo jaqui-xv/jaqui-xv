@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jaqui-xv/static/css/main.d0fd5f4f.css",
-    "main.js": "/jaqui-xv/static/js/main.77e4aa7d.js",
+    "main.css": "/jaqui-xv/static/css/main.2a3c1376.css",
+    "main.js": "/jaqui-xv/static/js/main.46f97b88.js",
     "static/js/453.7e14e525.chunk.js": "/jaqui-xv/static/js/453.7e14e525.chunk.js",
-    "static/media/MainPhoto.jpg": "/jaqui-xv/static/media/MainPhoto.56c3b6ff036edd39a955.jpg",
+    "static/media/MainPhoto.jpg": "/jaqui-xv/static/media/MainPhoto.68e67bc1a48e409d9e8f.jpg",
     "static/media/Photo1.jpg": "/jaqui-xv/static/media/Photo1.827b1b5434312b3ff269.jpg",
     "static/media/Location_Church.png": "/jaqui-xv/static/media/Location_Church.99423704a023515e4f04.png",
     "static/media/Location_Party.png": "/jaqui-xv/static/media/Location_Party.f5029aca758f6d63e5ad.png",
     "static/media/logo.svg": "/jaqui-xv/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jaqui-xv/index.html",
-    "main.d0fd5f4f.css.map": "/jaqui-xv/static/css/main.d0fd5f4f.css.map",
-    "main.77e4aa7d.js.map": "/jaqui-xv/static/js/main.77e4aa7d.js.map",
+    "main.2a3c1376.css.map": "/jaqui-xv/static/css/main.2a3c1376.css.map",
+    "main.46f97b88.js.map": "/jaqui-xv/static/js/main.46f97b88.js.map",
     "453.7e14e525.chunk.js.map": "/jaqui-xv/static/js/453.7e14e525.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0fd5f4f.css",
-    "static/js/main.77e4aa7d.js"
+    "static/css/main.2a3c1376.css",
+    "static/js/main.46f97b88.js"
   ]
 }
